@@ -76,7 +76,8 @@ const precioFinalProducto = calcularPrecioFinal(precioBaseProducto, impuestoPorc
 // resultado final
 if (precioFinalProducto !== undefined) {
     // Mostrar solo si el precio final es valido
-    alert("precio final del producto: " + precioFinalProducto + ' $');
+    alert("precio final del producto: " + precioFinalProducto + ' $' );
+    alert("vuelva pronto! :D");
 }
 
 
